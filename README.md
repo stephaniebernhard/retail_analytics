@@ -3,7 +3,7 @@
 Analyse data from a retailer and predict departement-wide sales for each store.
 
 ## Data Source
-The data can be downloaded from [Kaggle](https://www.kaggle.com/jessgoode/starter-retail-data-analytics-fddf685e-a).
+The data can be downloaded from [Kaggle](https://www.kaggle.com/manjeetsingh/retaildataset).
 
 If you want to run the code, please note that the files have been renamed (Features data set -> features, sales data-set -> sales, stores data-set -> stores)
 
