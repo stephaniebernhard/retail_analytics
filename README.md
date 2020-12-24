@@ -1,4 +1,4 @@
-# Retail_Analytics
+# Retail_Analytics / Time Series Forecast
 ## Goal
 Analyse data from a retailer and predict departement-wide sales for each store.
 
