@@ -28,7 +28,7 @@ There seems to be a seasonal trend, though as illustrated in the following figur
 
 As there are no straightforward features which could be used for a feature-based model, I decided to use a time-series approach and implemented exponential smoothing (Holt Winters) using a statistical model. 
 
-![png](predictions.png)
+![png](prediction.png)
 
 Using a ratio of 100 entries for training and the remaining 43 entries for testing, the mean absolute percentage error is 2.66%.
 Allowing more samples in the training data, i.e. 130 and using the remaining 13 entries for testing resulted in an error of 1.48%. 
